@@ -56,4 +56,4 @@
 
 ![Screenshot](https://i.ibb.co/201B3YqY/image-5.jpg)
 
-![Screenshot](https://i.ibb.co/ymgcmHyy/image-6.jpg)
+![Screenshot](https://i.ibb.co/MkC75rrv/image-6.png)
