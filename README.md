@@ -6,7 +6,5 @@
 - Mantine UI;
 - HTML, CSS, JS, TS;
 - NodeJS + ExpressJS.
-
-(https://i.ibb.co/YThZD2B5/image-1.png)
-Основная страница. Каталог с карточками фильмов
+- 
 [Основная страница. Каталог с карточками фильмов](https://i.ibb.co/YThZD2B5/image-1.png)
