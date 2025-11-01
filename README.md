@@ -3,10 +3,10 @@
 Коммерческий проект с закрытым исходным кодом.
 
 **Используемый стек технологий:**
-- React (Vite + TSX);
-- Mantine UI;
-- HTML, CSS, JS, TS;
-- NodeJS + ExpressJS + SQLite.
+- React (Vite + TSX)
+- Mantine UI
+- HTML + CSS + JS + TS
+- NodeJS + ExpressJS + SQLite
 
 ## Основная страница. Каталог с карточками фильмов
 
