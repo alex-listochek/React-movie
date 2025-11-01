@@ -8,6 +8,6 @@
 - HTML, CSS, JS, TS;
 - NodeJS + ExpressJS.
 
-**Основная страница. Каталог с карточками фильмов ->**
+**Основная страница. Каталог с карточками фильмов.**
 
 ![Screenshot](https://i.ibb.co/bTrmN0R/image-1.jpg)
