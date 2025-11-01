@@ -55,3 +55,5 @@
 🔔 Система уведомлений об операциях <br>
 
 ![Screenshot](https://i.ibb.co/201B3YqY/image-5.jpg)
+
+![Screenshot](https://i.ibb.co/8gZtb68q/image-6.jpg)
