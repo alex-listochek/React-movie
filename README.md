@@ -38,3 +38,11 @@
 📱 Адаптивный интерфейс <br>
 
 ![Screenshot](https://i.ibb.co/LhNs5ND2/image-3.jpg)
+
+## Аутентификация администратора
+
+🔒 Защищенный доступ по логину/паролю <br>
+🎫 JWT токены для авторизации <br>
+🔐 Проверка прав доступа к API <br>
+
+![Screenshot](https://i.ibb.co/VcT8rNL8/image-4.jpg)
